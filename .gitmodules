@@ -5,3 +5,6 @@
 [submodule "clordr"]
 	path = clordr
 	url = https://github.com/cran/clordr
+[submodule "tmvmixnorm"]
+	path = tmvmixnorm
+	url = https://github.com/cran/tmvmixnorm
